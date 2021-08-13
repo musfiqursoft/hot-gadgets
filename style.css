@@ -1,0 +1,59 @@
+.carousel-item h3 {
+    color: black;
+}
+
+.buy-now {
+    background-color: black;
+    color: white;
+    border-radius: 8px;
+    border: none;
+    padding: 6px 25px;
+}
+
+.buy-now :hover {
+    border: 1px solid rgb(116, 67, 250);
+}
+
+.ca-margin {
+    margin-left: 80px;
+    padding-right: 40px;
+}
+
+.w-100 {
+    background: url(images/bg-1.png);
+    background-repeat: no-repeat;
+    padding: 20px;
+}
+
+.see-all {
+    color: orange;
+}
+
+.see-all:hover {
+    cursor: pointer;
+}
+
+.g-4 {
+    margin: 20px;
+}
+
+.container {
+    margin-bottom: 100px;
+}
+
+.card {
+    box-shadow: 5px 5px 10px lightgrey;
+}
+
+.categories {
+    text-align: center;
+}
+
+.bag {
+    margin-top: 200px;
+    margin-left: 20px;
+}
+
+.border {
+    margin-top: 80px;
+}
